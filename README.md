@@ -4,12 +4,12 @@
 
 - `JavaScript` good
 - `React.js` & `Next.js` great
-- `<HTML>` + `{CSS}` + `$SASS` + `FlexBox` great
 - `redux` it's Easy
+- `<HTML>` + `{CSS}` + `$SASS` + `FlexBox` great
 - `cssGird` good
 - `Git` & `Github` good
 - `/^[ RegExp ]$/` not bad
-- `python` it's Easy
+- `Python` it's Easy
 - `<? php ?>` it's Easy
 - `Rust` it's Easy
 - Other skills not mentioned...
