@@ -7,6 +7,7 @@
 - `redux` it's Easy
 - `<HTML>` + `{CSS}` + `$SASS` + `FlexBox` great
 - `cssGird` good
+- `Tailwind:CSS`great
 - `Git` & `Github` good
 - `/^[ RegExp ]$/` not bad
 - `Python` it's Easy
