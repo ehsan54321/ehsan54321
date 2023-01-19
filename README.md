@@ -12,6 +12,7 @@
 - `/^[ RegExp ]$/` not bad
 - `Python` it's Easy
 - `<? php ?>` it's Easy
+- `SEO` good
 - `Rust` it's Easy
 - Other skills not mentioned...
 
@@ -23,7 +24,7 @@
 
 من سابقه شغلی ندارم اما یک پروژه خیلی کاملی در وب دارم که این پروژه در حد یک سایت کامل درباری ارز های دیجتال است
 
-لینک مرتبط : [me-app.iran.liara.run](https://me-app.iran.liara.run)
+لینک مرتبط : [marx.iran.liara.run](https://marx.iran.liara.run)
 
 ## 💬 Portfoliooo 🎵
 
