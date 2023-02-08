@@ -1,19 +1,20 @@
-### Hi there 👋
+## Welcome 👋
 
-## 👯 Skills / Languages
+## 👯 Skills
 
 - `JavaScript` good
 - `React.js` & `Next.js` great
-- `redux` it's Easy
-- `<HTML>` + `{CSS}` + `$SASS` + `FlexBox` great
-- `cssGird` good
+- `TypeScript` great
+- `Redux` it's Easy
+- `<HTML>` + `{CSS}` + `$SASS` + `CssFlex` great
+- `CssGird` good
 - `Tailwind:CSS`great
 - `Git` & `Github` good
-- `/^[ RegExp ]$/` not bad
+- `/^[ Regular Expressions (RegExp) ]$/` not bad
 - `Python` it's Easy
 - `<? php ?>` it's Easy
-- `SEO` good
-- `Rust` it's Easy
+- `Search Engine Optimization (SEO)` good
+<!-- - `Rust` it's Easy -->
 - Other skills not mentioned...
 
 ## 🤔 ABOUT ME?
@@ -22,9 +23,29 @@
 
 ## 👨‍💻 Projects
 
-من سابقه شغلی ندارم اما یک پروژه خیلی کاملی در وب دارم که این پروژه در حد یک سایت کامل درباری ارز های دیجتال است
+# مارکس کت - Marks Ket
+من سابقه شغلی ندارم اما یک پروژه خیلی کاملی در وب دارم که این پروژه در حد یک سایت کامل درباری ارز های دیجتال است.
 
-لینک مرتبط : [marx.iran.liara.run](https://marx.iran.liara.run)
+تکنولوژی های ساخت:
+- React.js
+- Next.js
+- Next.js API route
+- TailwindCSS
+- Chart.js
+- Scss
+- TypeScript
+- PWA
+
+لینک مرتبط : [marx.iran.liara.run ➚](https://marx.iran.liara.run)
+
+## 📖 Education
+
+- `web`
+
+## Languages
+
+- `English` not bad
+- `Persian (Farsi)` MOTHER TONGUE
 
 ## 💬 Portfoliooo 🎵
 
