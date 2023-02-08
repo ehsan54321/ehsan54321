@@ -8,7 +8,7 @@
 - `Redux` it's Easy
 - `<HTML>` + `{CSS}` + `$SASS` + `CssFlex` great
 - `CssGird` good
-- `Tailwind:CSS`great
+- `Tailwind:CSS` great
 - `Git` & `Github` good
 - `/^[ Regular Expressions (RegExp) ]$/` not bad
 - `Python` it's Easy
@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Projects
 
-# مارکس کت - Marks Ket
+### مارکس کت - Marks Ket
 من سابقه شغلی ندارم اما یک پروژه خیلی کاملی در وب دارم که این پروژه در حد یک سایت کامل درباری ارز های دیجتال است.
 
 تکنولوژی های ساخت:
