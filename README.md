@@ -35,7 +35,7 @@
 - Scss
 - TypeScript
 - PWA
-
+  لینک گیت هاب : [github.com/ehsan54321/marx](https://github.com/ehsan54321/marx)
 لینک مرتبط : [marx.iran.liara.run ➚](https://marx.iran.liara.run)
 
 ## 📖 Education
